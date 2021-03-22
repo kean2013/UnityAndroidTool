@@ -1,0 +1,4 @@
+include ':vap'
+include ':mpfour'
+include ':app'
+rootProject.name = "vap"
